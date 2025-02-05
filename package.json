@@ -1,0 +1,30 @@
+{
+  "name": "vesper-light",
+  "displayName": "Vesper light",
+  "description": "A light mode for Vesper theme",
+  "author": {
+    "name": "Samuel",
+    "email": "samueldsr8@gmail.com",
+    "url": "https://github.com/samueldsr99"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samueldsr99/vesper-light"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vesper light",
+        "uiTheme": "vs",
+        "path": "./themes/Vesper light-color-theme.json"
+      }
+    ]
+  }
+}
