@@ -1,5 +1,6 @@
 {
   "name": "vesper-light",
+  "version": "0.0.5",
   "displayName": "Vesper light",
   "description": "A light mode for Vesper theme",
   "publisher": "samueldsr99",
@@ -22,7 +23,6 @@
     "type": "git",
     "url": "https://github.com/samueldsr99/vesper-light"
   },
-  "version": "0.0.4",
   "engines": {
     "vscode": "^1.96.0"
   },

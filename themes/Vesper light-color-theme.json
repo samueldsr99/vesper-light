@@ -51,6 +51,9 @@
     "list.activeSelectionForeground": "#FF8C00",
     "list.inactiveSelectionBackground": "#E0E0E0",
     "list.hoverBackground": "#EAEAEA",
+    "list.activeSelectionBackground": "#FF8C0020",
+    "list.filterMatchBackground": "#FF8C0020",
+
     // Global
     "badge.background": "#FF8C00",
     "badge.foreground": "#000000",
@@ -64,8 +67,10 @@
     "list.highlightForeground": "#FF8C00",
     "selection.background": "#FF8C0020",
     // Quick Open / Quick Input
-    "quickInputList.focusBackground": "#FFF3E0",
+    "quickInputList.focusBackground": "#FF8C0020",
     "quickInputList.focusForeground": "#000000",
+    "quickInput.foreground": "#000000",
+
     // Brackets
     "editorBracketHighlight.foreground1": "#707070",
     "editorBracketHighlight.foreground2": "#707070",
